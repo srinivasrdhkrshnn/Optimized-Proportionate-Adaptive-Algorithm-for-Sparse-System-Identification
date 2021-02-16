@@ -1,0 +1,2 @@
+# Optimized-Proportionate-Algorithm-for-Sparse-System-Identification
+As a part of EE6110 (Adaptive Signal Processing) Course Project, I reviewed and reproduced the results of the paper “An optimized proportionate adaptive algorithm for sparse system identification.” independently. This paper proposed an optimal proportionate LMS algorithm for identification of a system with sparse impulse response (impulse response with very few active coefficients) which are very common in acoustic echo-channels and wireless multipath channels
